@@ -1,0 +1,5 @@
+<blank> 0
+<unk> 1
+EN 2
+CH 3
+<sos/eos> 4
